@@ -211,8 +211,10 @@
   .courses {
     display: flex;
     flex: 0 0 calc(50% -2rem);
-    background: url("./image/mp-img-4.jpg");
+    height: calc(100% - 70vh);
+    background: url("./image/mp-img-4.jpg") center/cover no-repeat;
   }
+  
   .course:hover {
     margin: 2rem;
     box-shadow: 5px 5px 10px var(--clr-grn-2);

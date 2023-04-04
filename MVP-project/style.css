@@ -174,7 +174,7 @@ a.navbar-content:hover {
 =============== footer ===================== */
 .footer {
   background-color: var(--clr-gray-3);
-  min-height: 13rem;
+  min-height: 25rem;
   text-align: center;
 }
 .footer-text {
